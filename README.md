@@ -1,4 +1,4 @@
-# Mage2 Module WdevAmar ProductImageInvoice     ``wdevamar/module-productimageinvoice``
+# Magento2 Module WdevAmar ProductImageInvoice     ``wdevamar/module-productimageinvoice``
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
