@@ -1,0 +1,22 @@
+{
+    "name": "wdevamar/module-productimageinvoice",
+    "description": "Show the product image on invoice pdf",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Amarjeet Prajapati",
+            "email": "wdevamar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "WdevAmar\\ProductImageInvoice\\": ""
+        }
+    }
+}
